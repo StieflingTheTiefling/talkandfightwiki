@@ -11,23 +11,23 @@
             "id": "5c4841753c622b9b",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 2,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Jesse",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/PCs/Jesse.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Jesse\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Jesse-backstory",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Spoiler/PCs/Jesse-backstory.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Jesse-backstory\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "TempHome",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/TempHome.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"TempHome\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":4},\"to\":{\"line\":4,\"ch\":4}}}"
+                },
+                {
+                  "title": "pc-template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/PC/pc-template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"pc-template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":62,\"ch\":0},\"to\":{\"line\":62,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "Graph view",
@@ -550,12 +550,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/PC/pc-template.md",
+                "file": "Onaris/PCs/B.L.O.B.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pc-template"
+              "title": "B.L.O.B"
             }
           }
         ]
@@ -986,14 +986,16 @@
       "obsidian-regex-pipeline:Regex Rulesets": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "digitalgarden:Digital Garden Publication Center": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4fdee15e297bea93",
+  "active": "5c4841753c622b9b",
   "lastOpenFiles": [
+    "Onaris/TempHome.md",
+    "Templates/PC/pc-template.md",
     "Onaris/Spoiler/PCs/Jesse-backstory.md",
     "Onaris/PCs/Jesse.md",
-    "Templates/PC/pc-template.md",
     "Templates/NPC/npc-template.md",
     "Templates/NPC/npc-template-backstory.md",
     "Onaris/Spoiler/PCs/Jesse-description.md",
