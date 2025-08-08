@@ -1,1 +1,3 @@
-secrets.json
+# Ignor data.json in digitalgarden because of secrets
+
+./obsidian/plugins/digitalgarden/data.json
