@@ -6,6 +6,9 @@
     "creation-date": "date",
     "test": "multitext",
     "date": "date",
-    "joined": "checkbox"
+    "joined": "checkbox",
+    "dg-home": "checkbox",
+    "dg-publish": "checkbox",
+    "": "checkbox"
   }
 }
