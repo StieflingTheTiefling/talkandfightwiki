@@ -43,9 +43,11 @@ let con = await tp.system.prompt("Constitution?")
 let int = await tp.system.prompt("Intelligence?")
 let wis = await tp.system.prompt("Wisdom?")
 let char = await tp.system.prompt("Charisma?")
+let languages = await tp.system.prompt("Welche Sparachen spricht der Charakter?")
+let cr = await tp.system.prompt("Welches Level hat der Charakter?")
 
-tR += "\n"
-tR += "| STR | DEX | CON | INT | WIS | CHAR |\n";
+tR += "```statblock";
+tR += 'stats: [ ${str},1,1,1,1]';
 tR += "| --- | --- | --- | --- | --- | ---- |\n";
 tR += `| ${str} | ${dex} | ${con} | ${int} | ${wis} | ${char} |\n`;
 
@@ -59,6 +61,12 @@ tR += `## Beschreibung
 ### DM-Notes
 ![[${gmBackstoryPath}]]`;
 %>
+
+```statblock
+stats: [1,1,1,1,1,1]
+cr: 
+languages: 
+```
 
 ## Wird erwähnt in
 
