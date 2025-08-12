@@ -1,29 +1,26 @@
 ---
-tags:
-  - pc
-  - kampagne/witchlight
-  - fraktion/Circus5
+tags: pc kampagne/witchlight fraktion/Circus5
 dg-publish: true
-klasse: Barbar
+klasse: Wizard
 date: 2025-08-11
 ---
-**Spieler:** [[Tobias Thaler]]
+**Spieler:** [[Jesse Bechter]]
 **Kampagne:** [[Wild Beyond The Witchlight]]
 **Gruppe:** [[Circus5]]
 ```statblock
 stats: [ 1, 1, 1, 1, 1, 1 ]
 cr: 3
-languages: Common, Giant
+languages: Common
 ```
 ## Beschreibung
-![[image-3.png]]
+![[image.png]]
 ### DM-Notes
-![[Onaris/Spoiler/PCs/Grog Strongjaw-description]]  
+![[Onaris/Spoiler/PCs/B.L.O.B.-description]]  
   
 ## Hintergrund  
 
 ### DM-Notes
-![[Onaris/Spoiler/PCs/Grog Strongjaw-backstory]]
+![[Onaris/Spoiler/PCs/B.L.O.B.-backstory]]
 
 ## Wird erwähnt in
 

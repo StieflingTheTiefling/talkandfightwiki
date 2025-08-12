@@ -46,10 +46,11 @@ let char = await tp.system.prompt("Charisma?")
 let languages = await tp.system.prompt("Welche Sparachen spricht der Charakter?")
 let cr = await tp.system.prompt("Welches Level hat der Charakter?")
 
-tR += "```statblock";
-tR += 'stats: [ ${str},1,1,1,1]';
-tR += "| --- | --- | --- | --- | --- | ---- |\n";
-tR += `| ${str} | ${dex} | ${con} | ${int} | ${wis} | ${char} |\n`;
+tR += "```statblock\n";
+tR += `stats: [ ${str}, ${dex}, ${con}, ${int}, ${wis}, ${char} ]\n`;
+tR += `cr: ${cr}\n`;
+tR += `languages: ${languages}\n`;
+tR += "```\n";
 
 tR += `## Beschreibung
 
@@ -61,12 +62,6 @@ tR += `## Beschreibung
 ### DM-Notes
 ![[${gmBackstoryPath}]]`;
 %>
-
-```statblock
-stats: [1,1,1,1,1,1]
-cr: 
-languages: 
-```
 
 ## Wird erwähnt in
 

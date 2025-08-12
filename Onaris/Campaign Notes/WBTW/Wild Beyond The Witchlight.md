@@ -20,5 +20,5 @@ WHERE contains(file.tags, "#kampagne/witchlight") AND contains(file.tags, "#npc"
 ```dataview
 TABLE file.name AS "Datei"
 FROM ""
-WHERE contains(file.tags, "#kampagne/witchlight") AND contains(file.tags, "#fraktion" AND !contains(file.tags, "#pc"))
+WHERE contains(file.tags, "#kampagne/witchlight") AND contains(file.tags, "#fraktion") AND !contains(file.tags, "#pc")
 ```

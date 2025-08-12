@@ -1,7 +1,7 @@
-#kampagne/witchlight #fraktion/leagueofmalevolence
-- [[Kelek]]
-- [[Skylla]]
-- [[Warduke]]
-- [[Zarak]]
-- [[Zargash]]
-- 
+---
+tags:
+  - kampagne/witchlight
+  - fraktion/leagueofmalevolence
+dg-publish: true
+---
+

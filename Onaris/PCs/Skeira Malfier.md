@@ -1,15 +1,31 @@
 ---
-tags:
-  - fraktion/circus5
-  - kampagne/witchlight
-  - pc
-class: Warlock
-creation-date: 2025-07-27
-aliases: 
-spieler: Sandra Seebacher
+tags: pc kampagne/witchlight fraktion/Circus5
+dg-publish: true
+klasse: Warlock
+date: 2025-08-11
 ---
-
+**Spieler:** [[Sandra Seebacher]]
+**Kampagne:** [[Wild Beyond The Witchlight]]
+**Gruppe:** [[Circus5]]
+```statblock
+stats: [ 1, 1, 1, 1, 1, 1 ]
+cr: 3
+languages: Common, Sylvian
+```
 ## Beschreibung
-[[Skeira Malfier]] ist unfreiwillig ein [[Long Night Scion]] ein Warlock des Frostprinzen. Ihr Bruder war in einem Pakt mit dem Sohn von [[Titania]], welcher ihn nach [[Prismeer]] auf Erkundung schickte. [[Skeira Malfier]]s Bruder wurde von der [[League of Malevolence]] erwischt und seitdem nie wieder gesehen. Eine Fußnote im Vertrag mit dem Frostprinzen band nun Skeira an den Prinzen.
+![[image-2.png]]
+### DM-Notes
+![[Onaris/Spoiler/PCs/Skeira Malfier-description]]  
+  
+## Hintergrund  
 
-Mit ihren neu gewonnen Warlock kräften begann sie bei einem Wanderzirkus als Spezialeffekt Expertin zu arbeiten. Dort lernte sie den Rest der [[Circus5]] kennen.
+### DM-Notes
+![[Onaris/Spoiler/PCs/Skeira Malfier-backstory]]
+
+## Wird erwähnt in
+
+```dataview
+table file.name as "Datei"
+from ""
+where contains(file.outlinks, this.file.link)
+```
