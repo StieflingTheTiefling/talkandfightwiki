@@ -18,6 +18,222 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Babitty Humanity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/NPCs/Babitty Humanity.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Babitty Humanity\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}},\"scroll\":2.9315960912052117}"
+                },
+                {
+                  "title": "npc-template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/NPC/npc-template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"npc-template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":27},\"to\":{\"line\":32,\"ch\":27}},\"scroll\":19.25}"
+                },
+                {
+                  "title": "session-template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Session Recap/session-template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"session-template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":27},\"to\":{\"line\":26,\"ch\":27}},\"scroll\":0}"
+                },
+                {
+                  "title": "pc-template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/PC/pc-template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"pc-template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":34.916666666666664}"
+                },
+                {
+                  "title": "session-template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Session Recap/session-template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"session-template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":26},\"to\":{\"line\":26,\"ch\":26}}}"
+                },
+                {
+                  "title": "session-template-spoiler",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Session Recap/session-template-spoiler.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"session-template-spoiler\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "pc-template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/PC/pc-template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"pc-template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.8771929824561403}"
+                },
+                {
+                  "title": "session-template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Session Recap/session-template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"session-template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "pc-template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/PC/pc-template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"pc-template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "session-template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Session Recap/session-template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"session-template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Mirrar Festival",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/Mirrar Festival/Mirrar Festival.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Mirrar Festival\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "session-template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Session Recap/session-template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"session-template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "session-template-spoiler",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Session Recap/session-template-spoiler.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"session-template-spoiler\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "session-template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Session Recap/session-template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"session-template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "pc-template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/PC/pc-template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"pc-template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "npc-template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/NPC/npc-template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"npc-template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":2},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "pc-template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/PC/pc-template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"pc-template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "session-template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Session Recap/session-template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"session-template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":0},\"to\":{\"line\":29,\"ch\":0}},\"scroll\":8.479166666666666}"
+                },
+                {
+                  "title": "npc-template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/NPC/npc-template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"npc-template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "session-template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Session Recap/session-template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"session-template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":62,\"ch\":2},\"to\":{\"line\":62,\"ch\":2}},\"scroll\":0}"
+                },
+                {
+                  "title": "npc-template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/NPC/npc-template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"npc-template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":33,\"ch\":2}},\"scroll\":11.375}"
+                },
+                {
+                  "title": "session-template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Session Recap/session-template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"session-template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":121},\"to\":{\"line\":11,\"ch\":121}}}"
+                },
+                {
+                  "title": "session-template-spoiler",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Session Recap/session-template-spoiler.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"session-template-spoiler\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":34},\"to\":{\"line\":2,\"ch\":34}}}"
+                },
+                {
+                  "title": "npc-template-description",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/NPC/npc-template-description.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"npc-template-description\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":2},\"to\":{\"line\":7,\"ch\":2}}}"
+                },
+                {
+                  "title": "npc-template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/NPC/npc-template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"npc-template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "session-template-spoiler",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Session Recap/session-template-spoiler.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"session-template-spoiler\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":34},\"to\":{\"line\":2,\"ch\":34}}}"
+                },
+                {
+                  "title": "npc-template-description",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/NPC/npc-template-description.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"npc-template-description\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":2},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "session-template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Session Recap/session-template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"session-template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":68},\"to\":{\"line\":15,\"ch\":68}},\"scroll\":4.5}"
+                },
+                {
+                  "title": "npc-template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/NPC/npc-template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"npc-template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":2},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "session-template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Session Recap/session-template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"session-template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "npc-template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/NPC/npc-template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"npc-template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":36},\"to\":{\"line\":16,\"ch\":36}},\"scroll\":4.583333333333333}"
+                },
+                {
+                  "title": "npc-template-description",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/NPC/npc-template-description.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"npc-template-description\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "session-template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Session Recap/session-template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"session-template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "npc-template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/NPC/npc-template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"npc-template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":27},\"to\":{\"line\":32,\"ch\":27}},\"scroll\":19.25}"
+                },
+                {
+                  "title": "Simeus Mengklar",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/PCs/Simeus Mengklar.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Simeus Mengklar\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":0},\"to\":{\"line\":33,\"ch\":0}},\"scroll\":29.87937644675926}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Wild Beyond The Witchlight",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wild Beyond The Witchlight\"}",
@@ -398,10 +614,14 @@
               ]
             },
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Onaris/Introductions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introductions"
             }
           }
         ]
@@ -838,37 +1058,38 @@
   },
   "active": "3ba6d0967389d704",
   "lastOpenFiles": [
-    "Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md",
     "Onaris/NPCs/Babitty Humanity.md",
+    "Templates/NPC/npc-template.md",
+    "Templates/Session Recap/session-template.md",
+    "Onaris/Campaign Notes/WBTW/Session Recap/Session 0.md",
+    "Onaris/Spoiler/Recap/Session 0-spoiler.md",
+    "Templates/PC/pc-template.md",
+    "Templates/Session Recap/session-template-spoiler.md",
+    "Onaris/Campaign Notes/Mirrar Festival/Mirrar Festival.md",
+    "Onaris/PCs/Test.md",
+    "Onaris/Spoiler/PCs/Test-backstory.md",
+    "Onaris/Spoiler/PCs/Test-description.md",
+    "Onaris/NPCs/Untitled.md",
+    "Templates/NPC/npc-template-description.md",
+    "Onaris/Spoiler/Recap",
+    "Templates/NPC/npc-template-backstory.md",
+    "Onaris/PCs/Simeus Mengklar.md",
+    "Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md",
     "Onaris/Spoiler/NPCs/Babitty Humanity-backstory.md",
     "Onaris/Spoiler/NPCs/Babitty Humanity-description.md",
     "Onaris/Campaign Notes/Mirrar Festival/Session-Recap.md",
-    "Onaris/Campaign Notes/Mirrar Festival/Mirrar Festival.md",
     "Onaris/Campaign Notes/Mirrar Festival",
     "Onaris/Introductions.md",
     "Onaris/Fraktionen/Schlachtenstürzer.md",
     "Onaris/Fraktionen/League of Malevolence.md",
     "Onaris/Fraktionen/Circus5.md",
-    "Onaris/PCs/Simeus Mengklar.md",
     "Onaris/PCs/Grog Strongjaw.md",
     "Onaris/PCs/B.L.O.B..md",
     "Onaris/PCs/Zasha.md",
-    "Onaris/PCs/Skeira Malfier.md",
     "image-3.png",
-    "Onaris/Spoiler/PCs/Grog Strongjaw-backstory.md",
-    "Onaris/Spoiler/PCs/Grog Strongjaw-description.md",
-    "Onaris/Spoiler/PCs/Simeus Mengklar-backstory.md",
-    "Onaris/Spoiler/PCs/Simeus Mengklar-description.md",
     "image-2.png",
     "image-1.png",
-    "Onaris/Spoiler/PCs/Zasha-backstory.md",
-    "Onaris/Spoiler/PCs/Zasha-description.md",
-    "Onaris/Spoiler/PCs/Skeira Malfier-backstory.md",
-    "Onaris/Spoiler/PCs/Skeira Malfier-description.md",
     "image.png",
-    "Templates/PC/pc-template.md",
-    "Onaris/Spoiler/PCs/B.L.O.B.-backstory.md",
-    "Onaris/Spoiler/PCs/B.L.O.B.-description.md",
     "src/site/notes/src/site/notes/src/site/notes/Onaris",
     "src/site/notes/src/site/notes/src/site/notes",
     "src/site/notes/src/site/notes/src/site",
@@ -877,7 +1098,6 @@
     "src/site/notes/src/site/notes",
     "src/site/notes/src/site",
     "src/site/notes/src",
-    "src/site/notes/Onaris",
     "Untitled.canvas"
   ]
 }

@@ -6,14 +6,10 @@ if (title.startsWith("Untitled")) {
   title = newTitle;
 }
 const gmNpcPath = `Onaris/Spoiler/NPCs`
-const gmDescriptionPath = `Onaris/Spoiler/NPCs/${title}-description`;
-const gmBackstoryPath = `Onaris/Spoiler/NPCs/${title}-backstory`;
+const gmDescriptionPath = `Onaris/Spoiler/NPCs/${title}-spoiler`;
 
 if (!(await tp.file.exists(gmDescriptionPath + ".md"))) {
-  await tp.file.create_new(tp.file.find_tfile(`Templates/NPC/npc-template-description`), `${title}-description`, false, gmNpcPath);
-}
-if (!(await tp.file.exists(gmBackstoryPath + ".md"))) {
-  await tp.file.create_new(tp.file.find_tfile(`Templates/NPC/npc-template-backstory`), `${title}-backstory`, false, gmNpcPath);
+  await tp.file.create_new(tp.file.find_tfile(`Templates/NPC/npc-template-description`), `${title}-spoiler`, false, gmNpcPath);
 }
 
 tR += "---\n"
@@ -34,10 +30,7 @@ tR += "**Fraktion:** [[" + faction + "]]\n"
 
 // Schreibe den unteren Text mit eingebetteten Links
 tR += `## Beschreibung 
-![[${gmDescriptionPath}]]  
-  
-## Hintergrund  
-![[${gmBackstoryPath}]]`;
+![[${gmDescriptionPath}]]`;
 %>
 
 ## Wird erwähnt in

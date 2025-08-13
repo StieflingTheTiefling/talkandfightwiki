@@ -16,8 +16,6 @@ Selten bis nie trifft man [[Babitty Humanity|Babitty]] ohne seinen Kaninchen Fam
 
 ![[Onaris/Spoiler/NPCs/Babitty Humanity-description]]  
   
-## Hintergrund  
-![[Onaris/Spoiler/NPCs/Babitty Humanity-backstory]]
 
 ## Wird erwähnt in
 

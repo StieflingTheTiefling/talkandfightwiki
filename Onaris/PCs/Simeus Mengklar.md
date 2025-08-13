@@ -13,6 +13,12 @@ cr: 3
 languages: Common, Thieves Cant
 ```
 ## Beschreibung
+
+### DM-Notes
+![[Onaris/Spoiler/PCs/Simeus Mengklar-description]]  
+  
+## Hintergrund  
+
 Geboren als Waise in [[Lunduun]], fand man den kleinen Hadozee in einer regnerischen Nacht auf den Straßen, eingehüllt in nichts als Lappen und mit nichts als einem hungrigen Blick. Die Mönche eines nahegelegenen Tempels nahmen ihn auf und gaben ihm Unterschlupf, doch als die Kassen des Tempels zu schrumpfen begannen und die Armut die Mauern des heiligen Ortes erreichte, entschlossen sie sich, den Jungen gegen eine geringe Summe an einen Zauberer, den die neuartige Lebensform faszinierte, zu verkaufen. Er wollte an dem kleinen Hadozee Experimente durchführen, und sperrte ihn deshalb in seinem Turm ein. Glücklicherweise wusste der Zauberer nicht von Simeus‘ Gleitfähigkeit, wodurch er in letzter Minute entkommen konnte. Von hier an lebte Simeus auf der Straße, in konstanter Angst davor, dass ihn der Zauberer wiederfinden könnte. 
 
 Als Kind spürte er schnell, dass er auf sich selbst gestellt sein musste, um zu überleben. Die Straßen waren kein Ort für schwache Seelen. Jahre verbrachte er auf den Straßen, kämpfte ums Überleben und spezialisierte sich schnell auf Taschendiebstahl und Einbrüche. In dieser Zeit war er immer wieder die Zielscheibe von Spott und Mobbing. Der Junge, der „anders“ war, der einzige Hadozee in einer Welt voller Menschen und anderer Rassen. Die anderen Kinder und selbst die Mitglieder seiner eigenen Straßenbande verspotteten ihn, nannten ihn „Affe“ oder „Tier“ und lachten über seine ungewöhnliche Erscheinung. Diese ständigen Demütigungen hinterließen tiefe Narben in seiner Seele und ließen ihn mit einer unbändigen Wut zurück, die sich wie ein dunkler Schatten über seine Taten legte. 
@@ -25,11 +31,6 @@ Im Zirkus hat Simeus eine neue Familie gefunden – eine kleine, aber treue Grup
 Nun lebt er zwischen den bunten Lichtern des Zirkus, wo seine Fähigkeiten als Dieb und Akrobat von unschätzbarem Wert sind. Doch der Ruf der Freiheit und die Frage nach seiner Herkunft sind nie weit entfernt. In seinen stillen Momenten träumt er weiter von einer Gemeinschaft, in der er wirklich dazugehört, und davon, dass er eines Tages den Ort findet, an dem er nicht mehr die Ausnahme ist.
 
 Simeus findet sehr schnell Freunde und hat kein Problem damit, sich in neuen Gruppen zurechtzufinden. Im Zirkus und auch früher in seiner Straßenbande hat er immer wieder Verbindungen geknüpft, die ihm Loyalität und Unterstützung bieten. Doch trotz dieser oberflächlichen Freundschaften gibt es niemanden, der wirklich sein innerstes Wesen kennt. Simeus hat gelernt, seine wahren Gedanken und Gefühle hinter einer Fassade aus Späßen und leichter Unterhaltung zu verbergen. Wenn es um tiefere Fragen geht – sei es über seine Vergangenheit, seine Träume oder die Sehnsucht nach einer wahren Gemeinschaft – lenkt er geschickt ab oder weicht aus. Er fürchtet, dass jemand, der zu nahe an ihn herankommt, die Verletzungen und Unsicherheiten sehen könnte, die er so lange zu verbergen versucht hat.
-
-### DM-Notes
-![[Onaris/Spoiler/PCs/Simeus Mengklar-description]]  
-  
-## Hintergrund  
 
 ### DM-Notes
 ![[Onaris/Spoiler/PCs/Simeus Mengklar-backstory]]
