@@ -18,6 +18,114 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Wild Beyond The Witchlight",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wild Beyond The Witchlight\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":4.918032786885246}"
+                },
+                {
+                  "title": "Babitty Humanity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/NPCs/Babitty Humanity.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Babitty Humanity\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":134},\"to\":{\"line\":12,\"ch\":134}},\"scroll\":5.863192182410423}"
+                },
+                {
+                  "title": "Wild Beyond The Witchlight",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wild Beyond The Witchlight\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":4.918032786885246}"
+                },
+                {
+                  "title": "Babitty Humanity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/NPCs/Babitty Humanity.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Babitty Humanity\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":18},\"to\":{\"line\":6,\"ch\":18}},\"scroll\":0}"
+                },
+                {
+                  "title": "Wild Beyond The Witchlight",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wild Beyond The Witchlight\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":9.611596446606953}"
+                },
+                {
+                  "title": "Session-Recap",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/Mirrar Festival/Session-Recap.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session-Recap\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Mirrar Festival",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/Mirrar Festival/Mirrar Festival.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Mirrar Festival\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Introductions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Introductions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Introductions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":7.338216145833333}"
+                },
+                {
+                  "title": "Mirrar Festival",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/Mirrar Festival/Mirrar Festival.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Mirrar Festival\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Wild Beyond The Witchlight",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wild Beyond The Witchlight\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Mirrar Festival",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/Mirrar Festival/Mirrar Festival.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Mirrar Festival\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Wild Beyond The Witchlight",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wild Beyond The Witchlight\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":3},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Schlachtenstürzer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Fraktionen/Schlachtenstürzer.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Schlachtenstürzer\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "League of Malevolence",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Fraktionen/League of Malevolence.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"League of Malevolence\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Circus5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Fraktionen/Circus5.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Circus5\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":11},\"to\":{\"line\":12,\"ch\":11}},\"scroll\":0}"
+                },
+                {
+                  "title": "Simeus Mengklar",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/PCs/Simeus Mengklar.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Simeus Mengklar\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":0},\"to\":{\"line\":27,\"ch\":0}},\"scroll\":4.93485342019544}"
+                },
+                {
+                  "title": "Grog Strongjaw",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/PCs/Grog Strongjaw.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Grog Strongjaw\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":15},\"to\":{\"line\":17,\"ch\":15}},\"scroll\":8.589576547231271}"
+                },
+                {
+                  "title": "B.L.O.B.",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/PCs/B.L.O.B..md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"B.L.O.B.\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":0}"
+                },
+                {
                   "title": "Schlachtenstürzer",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Fraktionen/Schlachtenstürzer.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Schlachtenstürzer\"}",
@@ -290,14 +398,10 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Onaris/PCs/B.L.O.B..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "B.L.O.B."
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -734,15 +838,22 @@
   },
   "active": "3ba6d0967389d704",
   "lastOpenFiles": [
+    "Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md",
+    "Onaris/NPCs/Babitty Humanity.md",
+    "Onaris/Spoiler/NPCs/Babitty Humanity-backstory.md",
+    "Onaris/Spoiler/NPCs/Babitty Humanity-description.md",
+    "Onaris/Campaign Notes/Mirrar Festival/Session-Recap.md",
+    "Onaris/Campaign Notes/Mirrar Festival/Mirrar Festival.md",
+    "Onaris/Campaign Notes/Mirrar Festival",
+    "Onaris/Introductions.md",
     "Onaris/Fraktionen/Schlachtenstürzer.md",
     "Onaris/Fraktionen/League of Malevolence.md",
     "Onaris/Fraktionen/Circus5.md",
-    "Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md",
+    "Onaris/PCs/Simeus Mengklar.md",
+    "Onaris/PCs/Grog Strongjaw.md",
     "Onaris/PCs/B.L.O.B..md",
     "Onaris/PCs/Zasha.md",
     "Onaris/PCs/Skeira Malfier.md",
-    "Onaris/PCs/Simeus Mengklar.md",
-    "Onaris/PCs/Grog Strongjaw.md",
     "image-3.png",
     "Onaris/Spoiler/PCs/Grog Strongjaw-backstory.md",
     "Onaris/Spoiler/PCs/Grog Strongjaw-description.md",
@@ -758,10 +869,6 @@
     "Templates/PC/pc-template.md",
     "Onaris/Spoiler/PCs/B.L.O.B.-backstory.md",
     "Onaris/Spoiler/PCs/B.L.O.B.-description.md",
-    "Onaris/Introductions.md",
-    "Templates/Session Recap/session-template.md",
-    "Templates/NPC/npc-template.md",
-    "Onaris/PCs/B.L.O.B.md",
     "src/site/notes/src/site/notes/src/site/notes/Onaris",
     "src/site/notes/src/site/notes/src/site/notes",
     "src/site/notes/src/site/notes/src/site",
@@ -771,7 +878,6 @@
     "src/site/notes/src/site",
     "src/site/notes/src",
     "src/site/notes/Onaris",
-    "src/site/notes",
     "Untitled.canvas"
   ]
 }

@@ -1,1 +1,0 @@
-Spoiler/NPCs/Kettlesteam-Beschreibung

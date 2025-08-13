@@ -16,12 +16,12 @@ cr: 3
 languages: Common, Giant
 ```
 ## Beschreibung
-![[image-3.png]]
+
 ### DM-Notes
 ![[Onaris/Spoiler/PCs/Grog Strongjaw-description]]  
   
 ## Hintergrund  
-
+![[image-3.png]]
 ### DM-Notes
 ![[Onaris/Spoiler/PCs/Grog Strongjaw-backstory]]
 

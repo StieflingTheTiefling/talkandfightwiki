@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiSword",
       "LiPcCase",
       "LiPersonStanding",
       "LiFlag",
-      "LiNotebook",
-      "LiDroplets"
+      "LiNotebook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,5 +47,6 @@
   "Onaris/Spoiler": "LiUserCircle",
   "Onaris/Spoiler/NPCs": "LiPersonStanding",
   "Onaris/Spoiler/PCs": "LiPcCase",
-  "Onaris/Spoiler/Fraktionen": "LiFlag"
+  "Onaris/Spoiler/Fraktionen": "LiFlag",
+  "Onaris/Campaign Notes/Mirrar Festival/Mirrar Festival.md": "LiSword"
 }

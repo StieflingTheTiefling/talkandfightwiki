@@ -13,12 +13,12 @@ cr: 3
 languages: Common
 ```
 ## Beschreibung
-![[image.png]]
+
 ### DM-Notes
 ![[Onaris/Spoiler/PCs/B.L.O.B.-description]]  
   
 ## Hintergrund  
-
+![[image.png]]
 ### DM-Notes
 ![[Onaris/Spoiler/PCs/B.L.O.B.-backstory]]
 
