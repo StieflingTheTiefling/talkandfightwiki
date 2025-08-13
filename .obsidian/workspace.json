@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Babitty Humanity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/NPCs/Babitty Humanity.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Babitty Humanity\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":101},\"to\":{\"line\":14,\"ch\":101}},\"scroll\":2.9022801302931596}"
+                },
+                {
+                  "title": "Introductions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Introductions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Introductions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":2.446280991735537}"
+                },
+                {
                   "title": "Session-Recap",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/Mirrar Festival/Session-Recap.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session-Recap\"}",
@@ -628,12 +640,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Onaris/Introductions.md",
+                "file": "Templates/NPC/npc-template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introductions"
+              "title": "npc-template"
             }
           }
         ]
@@ -1070,9 +1082,9 @@
   },
   "active": "3ba6d0967389d704",
   "lastOpenFiles": [
-    "Onaris/Campaign Notes/Mirrar Festival/Session-Recap.md",
-    "Onaris/Introductions.md",
     "Onaris/NPCs/Babitty Humanity.md",
+    "Onaris/Introductions.md",
+    "Onaris/Campaign Notes/Mirrar Festival/Session-Recap.md",
     "Templates/NPC/npc-template.md",
     "Templates/Session Recap/session-template.md",
     "Onaris/Campaign Notes/WBTW/Session Recap/Session 0.md",
