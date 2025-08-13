@@ -1052,8 +1052,7 @@
       "obsidian-regex-pipeline:Regex Rulesets": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "digitalgarden:Digital Garden Publication Center": false,
-      "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "3ba6d0967389d704",
