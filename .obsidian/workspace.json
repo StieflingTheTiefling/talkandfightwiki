@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Session-Recap",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/Mirrar Festival/Session-Recap.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session-Recap\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Introductions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Introductions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Introductions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
                   "title": "Babitty Humanity",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/NPCs/Babitty Humanity.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Babitty Humanity\"}",
@@ -1052,11 +1064,14 @@
       "obsidian-regex-pipeline:Regex Rulesets": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "digitalgarden:Digital Garden Publication Center": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "3ba6d0967389d704",
   "lastOpenFiles": [
+    "Onaris/Campaign Notes/Mirrar Festival/Session-Recap.md",
+    "Onaris/Introductions.md",
     "Onaris/NPCs/Babitty Humanity.md",
     "Templates/NPC/npc-template.md",
     "Templates/Session Recap/session-template.md",
@@ -1076,9 +1091,7 @@
     "Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md",
     "Onaris/Spoiler/NPCs/Babitty Humanity-backstory.md",
     "Onaris/Spoiler/NPCs/Babitty Humanity-description.md",
-    "Onaris/Campaign Notes/Mirrar Festival/Session-Recap.md",
     "Onaris/Campaign Notes/Mirrar Festival",
-    "Onaris/Introductions.md",
     "Onaris/Fraktionen/Schlachtenstürzer.md",
     "Onaris/Fraktionen/League of Malevolence.md",
     "Onaris/Fraktionen/Circus5.md",
