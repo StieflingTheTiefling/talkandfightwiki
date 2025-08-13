@@ -18,6 +18,24 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Session-0-spoiler",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Spoiler/Recap/Session-0-spoiler.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session-0-spoiler\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session-0",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Session Recap/Session-0.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session-0\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "npc-template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/NPC/npc-template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"npc-template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
                   "title": "Babitty Humanity",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/NPCs/Babitty Humanity.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Babitty Humanity\"}",
@@ -640,12 +658,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/NPC/npc-template.md",
+                "file": "Onaris/Campaign Notes/WBTW/Session Recap/Session-0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "npc-template"
+              "title": "Session-0"
             }
           }
         ]
@@ -1082,10 +1100,12 @@
   },
   "active": "3ba6d0967389d704",
   "lastOpenFiles": [
+    "Onaris/Spoiler/Recap/Session-0-spoiler.md",
+    "Onaris/Campaign Notes/WBTW/Session Recap/Session-0.md",
+    "Templates/NPC/npc-template.md",
     "Onaris/NPCs/Babitty Humanity.md",
     "Onaris/Introductions.md",
     "Onaris/Campaign Notes/Mirrar Festival/Session-Recap.md",
-    "Templates/NPC/npc-template.md",
     "Templates/Session Recap/session-template.md",
     "Onaris/Campaign Notes/WBTW/Session Recap/Session 0.md",
     "Onaris/Spoiler/Recap/Session 0-spoiler.md",
@@ -1108,8 +1128,6 @@
     "Onaris/Fraktionen/League of Malevolence.md",
     "Onaris/Fraktionen/Circus5.md",
     "Onaris/PCs/Grog Strongjaw.md",
-    "Onaris/PCs/B.L.O.B..md",
-    "Onaris/PCs/Zasha.md",
     "image-3.png",
     "image-2.png",
     "image-1.png",
