@@ -18,6 +18,54 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Session-0",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Session Recap/Session-0.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session-0\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":5.25}"
+                },
+                {
+                  "title": "Session-1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Session Recap/Session-1.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session-1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":6},\"to\":{\"line\":9,\"ch\":6}}}"
+                },
+                {
+                  "title": "Session-0",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Session Recap/Session-0.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session-0\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session-1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Session Recap/Session-1.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session-1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":82},\"to\":{\"line\":5,\"ch\":82}},\"scroll\":0}"
+                },
+                {
+                  "title": "Session-0",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Session Recap/Session-0.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session-0\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":37},\"to\":{\"line\":19,\"ch\":37}},\"scroll\":4.163636363636364}"
+                },
+                {
+                  "title": "Introductions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Introductions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Introductions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":647},\"to\":{\"line\":4,\"ch\":647}}}"
+                },
+                {
+                  "title": "Wild Beyond The Witchlight",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wild Beyond The Witchlight\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Introductions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Introductions.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Introductions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":647},\"to\":{\"line\":4,\"ch\":647}}}"
+                },
+                {
                   "title": "Wild Beyond The Witchlight",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wild Beyond The Witchlight\"}",
@@ -748,12 +796,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Onaris/Introductions.md",
+                "file": "Onaris/Campaign Notes/WBTW/Session Recap/Session-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introductions"
+              "title": "Session-1"
             }
           }
         ]
@@ -1190,8 +1238,11 @@
   },
   "active": "3ba6d0967389d704",
   "lastOpenFiles": [
-    "Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md",
     "Onaris/Campaign Notes/WBTW/Session Recap/Session-0.md",
+    "Onaris/Campaign Notes/WBTW/Session Recap/Session-1.md",
+    "Onaris/Spoiler/Recap/Session-1-spoiler.md",
+    "Onaris/Introductions.md",
+    "Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md",
     "Onaris/PCs/Skeira Malfier.md",
     "Onaris/PCs/B.L.O.B..md",
     "Onaris/Fraktionen/Circus5.md",
@@ -1201,7 +1252,6 @@
     "Onaris/Spoiler/Recap/Session-0-spoiler.md",
     "Templates/NPC/npc-template.md",
     "Onaris/NPCs/Babitty Humanity.md",
-    "Onaris/Introductions.md",
     "Onaris/Campaign Notes/Mirrar Festival/Session-Recap.md",
     "Onaris/Campaign Notes/WBTW/Session Recap/Session 0.md",
     "Onaris/Spoiler/Recap/Session 0-spoiler.md",
@@ -1215,9 +1265,7 @@
     "Onaris/Spoiler/Recap",
     "Templates/NPC/npc-template-backstory.md",
     "Onaris/Spoiler/NPCs/Babitty Humanity-backstory.md",
-    "Onaris/Spoiler/NPCs/Babitty Humanity-description.md",
     "Onaris/Campaign Notes/Mirrar Festival",
-    "Onaris/Fraktionen/Schlachtenstürzer.md",
     "image-3.png",
     "image-2.png",
     "image-1.png",
