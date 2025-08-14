@@ -1,8 +1,13 @@
 ---
-tags: pc kampagne/witchlight fraktion/Circus5
+tags:
+  - pc
+  - kampagne/witchlight
+  - fraktion/Circus5
 dg-publish: true
 klasse: Wizard
 date: 2025-08-11
+aliases:
+  - Blob
 ---
 **Spieler:** [[Jesse Bechter]]
 **Kampagne:** [[Wild Beyond The Witchlight]]

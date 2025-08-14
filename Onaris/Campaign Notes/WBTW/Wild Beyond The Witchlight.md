@@ -22,3 +22,9 @@ TABLE file.name AS "Datei"
 FROM ""
 WHERE contains(file.tags, "#kampagne/witchlight") AND contains(file.tags, "#fraktion") AND !contains(file.tags, "#pc")
 ```
+# Session Recap
+```dataview
+TABLE file.name AS "Datei"
+FROM ""
+WHERE contains(file.tags, "#kampagne/witchlight") AND contains(file.tags, "#session-recap")
+```

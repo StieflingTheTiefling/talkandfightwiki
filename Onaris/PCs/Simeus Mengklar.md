@@ -1,8 +1,13 @@
 ---
-tags: pc kampagne/witchlight fraktion/Circus5
+tags:
+  - pc
+  - kampagne/witchlight
+  - fraktion/Circus5
 dg-publish: true
 klasse: Rogue
 date: 2025-08-11
+aliases:
+  - Simeus
 ---
 **Spieler:** [[Mathias Steinlechner]]
 **Kampagne:** [[Wild Beyond The Witchlight]]

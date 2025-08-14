@@ -18,6 +18,96 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Wild Beyond The Witchlight",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wild Beyond The Witchlight\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Session-0",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Session Recap/Session-0.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session-0\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":0},\"to\":{\"line\":21,\"ch\":0}},\"scroll\":7.083333333333333}"
+                },
+                {
+                  "title": "Skeira Malfier",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/PCs/Skeira Malfier.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Skeira Malfier\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":20.774189565373565}"
+                },
+                {
+                  "title": "Session-0",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Session Recap/Session-0.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session-0\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":231},\"to\":{\"line\":13,\"ch\":231}},\"scroll\":2.909090909090909}"
+                },
+                {
+                  "title": "B.L.O.B.",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/PCs/B.L.O.B..md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"B.L.O.B.\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":28},\"to\":{\"line\":11,\"ch\":28}},\"scroll\":0}"
+                },
+                {
+                  "title": "Circus5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Fraktionen/Circus5.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Circus5\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":9},\"to\":{\"line\":16,\"ch\":9}}}"
+                },
+                {
+                  "title": "Simeus Mengklar",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/PCs/Simeus Mengklar.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Simeus Mengklar\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":17},\"to\":{\"line\":13,\"ch\":17}}}"
+                },
+                {
+                  "title": "Circus5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Fraktionen/Circus5.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Circus5\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":8},\"to\":{\"line\":14,\"ch\":8}}}"
+                },
+                {
+                  "title": "Skeira Malfier",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/PCs/Skeira Malfier.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Skeira Malfier\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":20},\"to\":{\"line\":13,\"ch\":20}},\"scroll\":0}"
+                },
+                {
+                  "title": "Session-0",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Session Recap/Session-0.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session-0\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":233},\"to\":{\"line\":13,\"ch\":233}},\"scroll\":3.381818181818182}"
+                },
+                {
+                  "title": "Wild Beyond The Witchlight",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wild Beyond The Witchlight\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":0},\"to\":{\"line\":30,\"ch\":0}},\"scroll\":5.754098360655738}"
+                },
+                {
+                  "title": "Session-0",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Session Recap/Session-0.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session-0\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "session-template-spoiler",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Session Recap/session-template-spoiler.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"session-template-spoiler\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "session-template",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Session Recap/session-template.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"session-template\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session-0",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Session Recap/Session-0.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session-0\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":100},\"to\":{\"line\":6,\"ch\":100}}}"
+                },
+                {
                   "title": "Session-0-spoiler",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Spoiler/Recap/Session-0-spoiler.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session-0-spoiler\"}",
@@ -658,12 +748,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Onaris/Campaign Notes/WBTW/Session Recap/Session-0.md",
+                "file": "Onaris/Introductions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session-0"
+              "title": "Introductions"
             }
           }
         ]
@@ -1100,17 +1190,22 @@
   },
   "active": "3ba6d0967389d704",
   "lastOpenFiles": [
-    "Onaris/Spoiler/Recap/Session-0-spoiler.md",
+    "Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md",
     "Onaris/Campaign Notes/WBTW/Session Recap/Session-0.md",
+    "Onaris/PCs/Skeira Malfier.md",
+    "Onaris/PCs/B.L.O.B..md",
+    "Onaris/Fraktionen/Circus5.md",
+    "Onaris/PCs/Simeus Mengklar.md",
+    "Templates/Session Recap/session-template-spoiler.md",
+    "Templates/Session Recap/session-template.md",
+    "Onaris/Spoiler/Recap/Session-0-spoiler.md",
     "Templates/NPC/npc-template.md",
     "Onaris/NPCs/Babitty Humanity.md",
     "Onaris/Introductions.md",
     "Onaris/Campaign Notes/Mirrar Festival/Session-Recap.md",
-    "Templates/Session Recap/session-template.md",
     "Onaris/Campaign Notes/WBTW/Session Recap/Session 0.md",
     "Onaris/Spoiler/Recap/Session 0-spoiler.md",
     "Templates/PC/pc-template.md",
-    "Templates/Session Recap/session-template-spoiler.md",
     "Onaris/Campaign Notes/Mirrar Festival/Mirrar Festival.md",
     "Onaris/PCs/Test.md",
     "Onaris/Spoiler/PCs/Test-backstory.md",
@@ -1119,15 +1214,10 @@
     "Templates/NPC/npc-template-description.md",
     "Onaris/Spoiler/Recap",
     "Templates/NPC/npc-template-backstory.md",
-    "Onaris/PCs/Simeus Mengklar.md",
-    "Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md",
     "Onaris/Spoiler/NPCs/Babitty Humanity-backstory.md",
     "Onaris/Spoiler/NPCs/Babitty Humanity-description.md",
     "Onaris/Campaign Notes/Mirrar Festival",
     "Onaris/Fraktionen/Schlachtenstürzer.md",
-    "Onaris/Fraktionen/League of Malevolence.md",
-    "Onaris/Fraktionen/Circus5.md",
-    "Onaris/PCs/Grog Strongjaw.md",
     "image-3.png",
     "image-2.png",
     "image-1.png",

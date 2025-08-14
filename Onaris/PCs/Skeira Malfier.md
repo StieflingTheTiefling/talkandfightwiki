@@ -1,8 +1,13 @@
 ---
-tags: pc kampagne/witchlight fraktion/Circus5
+tags:
+  - pc
+  - kampagne/witchlight
+  - fraktion/Circus5
 dg-publish: true
 klasse: Warlock
 date: 2025-08-11
+aliases:
+  - Skeira
 ---
 **Spieler:** [[Sandra Seebacher]]
 **Kampagne:** [[Wild Beyond The Witchlight]]
