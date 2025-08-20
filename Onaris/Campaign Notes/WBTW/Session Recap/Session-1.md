@@ -50,5 +50,8 @@ Am dortigen Schneckenrennen konnte ich die Aufzeichnungen des Rennens an dem [[S
 
 *18:00 Uhr - 19:50 Uhr*
 In dieser Zeitspanne ist tatsächlich besser dokumentiert was die Gruppe unternahm. Nach dem Schneckenrennen haben die beiden Goliaths [[Grog Strongjaw]] und [[Zasha]] beim Goblin-Wrestling mitgemacht. Ich konnte einen Bericht der dortigen Sanitäter aufstöbern, der beschreibt wie Grog die beiden Goblins [[Mannfred]] und [[Hermann]] in den Boden stampfte. Der Goliath verwendete seinen Primal Rage um  sich einen Vorteil in dem "Spiel" zu verschaffen.
+
 Danach gingen sie noch ins Pixie Kingdom, es wurde aber leider nirgends notiert, welche Namen sie sich zulegten. Schade, diese Info hätte uns in der Feenwildnis geholfen.
 
+*19:50 Uhr - 22:00 Uhr*
+Wir können davon ausgehen, dass die Gruppe sich vom Pixie Kingdom direkt zur Big Top Extravaganza begeben haben. Zeugenaussagen berichten, dass Grog während der Vorführung einen Teil der Tribüne zerstörte. Vermutlich um auf sich aufmerksam zu machen, als der stärkste Starke Mann. Tatsächlich wurde über ihren Auftritt nur positives erwähnt. Mit ihren Hintergrund im Wanderzirkus, wäre das auch stimmig.

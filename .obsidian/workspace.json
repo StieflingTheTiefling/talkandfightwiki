@@ -18,6 +18,192 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "witchlightPcParty",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"witchlightPcParty.png\"},\"icon\":\"lucide-image\",\"title\":\"witchlightPcParty\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Wild Beyond The Witchlight",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wild Beyond The Witchlight\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":50},\"to\":{\"line\":8,\"ch\":50}},\"scroll\":1.9057377049180328}"
+                },
+                {
+                  "title": "witchlightPcParty",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"witchlightPcParty.png\"},\"icon\":\"lucide-image\",\"title\":\"witchlightPcParty\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Wild Beyond The Witchlight",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wild Beyond The Witchlight\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":12},\"to\":{\"line\":9,\"ch\":12}}}"
+                },
+                {
+                  "title": "witchlightPcParty",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"witchlightPcParty.png\"},\"icon\":\"lucide-image\",\"title\":\"Abenteuer auf dem zerbrochenen Aquädukt\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Wild Beyond The Witchlight",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wild Beyond The Witchlight\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":13},\"to\":{\"line\":9,\"ch\":13}}}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "NPC-Index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/NPC-Index.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"NPC-Index\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "PC-Index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/PC-Index.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"PC-Index\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session-Index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Session-Index.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session-Index\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Wild Beyond The Witchlight",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wild Beyond The Witchlight\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "PC-Index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/PC-Index.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"PC-Index\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":1.0472727272727274}"
+                },
+                {
+                  "title": "Wild Beyond The Witchlight",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wild Beyond The Witchlight\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":9.673946803238064}"
+                },
+                {
+                  "title": "NPC-Index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/NPC-Index.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"NPC-Index\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":3},\"to\":{\"line\":11,\"ch\":3}}}"
+                },
+                {
+                  "title": "Wild Beyond The Witchlight",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wild Beyond The Witchlight\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                },
+                {
+                  "title": "NPC-Index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/NPC-Index.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"NPC-Index\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Wild Beyond The Witchlight",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wild Beyond The Witchlight\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":6.6843739220420835}"
+                },
+                {
+                  "title": "Fraktion-Index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Fraktion-Index.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Fraktion-Index\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Wild Beyond The Witchlight",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wild Beyond The Witchlight\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":0},\"to\":{\"line\":18,\"ch\":0}},\"scroll\":5.901639344262295}"
+                },
+                {
+                  "title": "Fraktion-Index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Fraktion-Index.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Fraktion-Index\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Babitty Humanity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/NPCs/Babitty Humanity.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Babitty Humanity\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Wild Beyond The Witchlight",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wild Beyond The Witchlight\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":0},\"to\":{\"line\":26,\"ch\":0}},\"scroll\":19.971937029431896}"
+                },
+                {
+                  "title": "Session-Index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Session-Index.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session-Index\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Babitty Humanity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/NPCs/Babitty Humanity.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Babitty Humanity\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}},\"scroll\":12.604166666666666}"
+                },
+                {
+                  "title": "Wild Beyond The Witchlight",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wild Beyond The Witchlight\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":11.994286556821114}"
+                },
+                {
+                  "title": "Session-Index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Session-Index.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session-Index\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Wild Beyond The Witchlight",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wild Beyond The Witchlight\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":0},\"to\":{\"line\":24,\"ch\":0}},\"scroll\":11.994286556821114}"
+                },
+                {
+                  "title": "Session-Index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Session-Index.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session-Index\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Wild Beyond The Witchlight",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Wild Beyond The Witchlight\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}},\"scroll\":12.469299758537426}"
+                },
+                {
+                  "title": "Session-Index",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Session-Index.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session-Index\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Session-1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Session Recap/Session-1.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session-1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":56,\"ch\":403},\"to\":{\"line\":56,\"ch\":403}},\"scroll\":0}"
+                },
+                {
                   "title": "Session-0",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onaris/Campaign Notes/WBTW/Session Recap/Session-0.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Session-0\"}",
@@ -796,12 +982,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Onaris/Campaign Notes/WBTW/Session Recap/Session-1.md",
+                "file": "Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session-1"
+              "title": "Wild Beyond The Witchlight"
             }
           }
         ]
@@ -1238,11 +1424,21 @@
   },
   "active": "3ba6d0967389d704",
   "lastOpenFiles": [
-    "Onaris/Campaign Notes/WBTW/Session Recap/Session-0.md",
+    "witchlightPcParty.png",
+    "Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md",
+    "Onaris/Campaign Notes/WBTW/NPC-Index.md",
+    "Onaris/Campaign Notes/WBTW/PC-Index.md",
+    "Onaris/Campaign Notes/WBTW/Session-Index.md",
+    "Onaris/Campaign Notes/Mirrar Festival/Session-Recap.md",
+    "Onaris/Spoiler/Recap/NPC-Index-spoiler.md",
+    "Onaris/Campaign Notes/WBTW/Fraktion-Index.md",
+    "Onaris/NPCs/Babitty Humanity.md",
+    "Onaris/Spoiler/Recap/Fraktion-Index-spoiler.md",
     "Onaris/Campaign Notes/WBTW/Session Recap/Session-1.md",
+    "Onaris/Spoiler/Recap/Session-Index-spoiler.md",
+    "Onaris/Campaign Notes/WBTW/Session Recap/Session-0.md",
     "Onaris/Spoiler/Recap/Session-1-spoiler.md",
     "Onaris/Introductions.md",
-    "Onaris/Campaign Notes/WBTW/Wild Beyond The Witchlight.md",
     "Onaris/PCs/Skeira Malfier.md",
     "Onaris/PCs/B.L.O.B..md",
     "Onaris/Fraktionen/Circus5.md",
@@ -1251,20 +1447,10 @@
     "Templates/Session Recap/session-template.md",
     "Onaris/Spoiler/Recap/Session-0-spoiler.md",
     "Templates/NPC/npc-template.md",
-    "Onaris/NPCs/Babitty Humanity.md",
-    "Onaris/Campaign Notes/Mirrar Festival/Session-Recap.md",
     "Onaris/Campaign Notes/WBTW/Session Recap/Session 0.md",
     "Onaris/Spoiler/Recap/Session 0-spoiler.md",
     "Templates/PC/pc-template.md",
-    "Onaris/Campaign Notes/Mirrar Festival/Mirrar Festival.md",
-    "Onaris/PCs/Test.md",
-    "Onaris/Spoiler/PCs/Test-backstory.md",
-    "Onaris/Spoiler/PCs/Test-description.md",
-    "Onaris/NPCs/Untitled.md",
-    "Templates/NPC/npc-template-description.md",
     "Onaris/Spoiler/Recap",
-    "Templates/NPC/npc-template-backstory.md",
-    "Onaris/Spoiler/NPCs/Babitty Humanity-backstory.md",
     "Onaris/Campaign Notes/Mirrar Festival",
     "image-3.png",
     "image-2.png",

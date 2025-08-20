@@ -4,27 +4,16 @@ tags:
   - overview
   - kampagne/witchlight
 ---
+```ad-info
+Damit der Graph nicht zu unübersichtlich wird, teile ich die generierten Tabellen für PCs, NPCs, Fraktionen und Session Recaps in dedizierte Index files.
+```
+
 # Spielercharaktere
-```dataview
-TABLE file.name AS "Datei"
-FROM ""
-WHERE contains(file.tags, "#kampagne/witchlight") AND contains(file.tags, "#pc")
-```
+[[PC-Index]]
 # Nichtspielercharaktere
-```dataview
-TABLE file.name AS "Datei"
-FROM ""
-WHERE contains(file.tags, "#kampagne/witchlight") AND contains(file.tags, "#npc")
-```
+[[NPC-Index]]
 # Fraktionen
-```dataview
-TABLE file.name AS "Datei"
-FROM ""
-WHERE contains(file.tags, "#kampagne/witchlight") AND contains(file.tags, "#fraktion") AND !contains(file.tags, "#pc")
-```
-# Session Recap
-```dataview
-TABLE file.name AS "Datei"
-FROM ""
-WHERE contains(file.tags, "#kampagne/witchlight") AND contains(file.tags, "#session-recap")
-```
+[[Fraktion-Index]]
+# Session Recaps
+[[Session-Index]]
+
