@@ -10,8 +10,6 @@ aliases:
   - Skeira
 ---
 **Spieler:** [[Sandra Seebacher]]
-**Kampagne:** [[Wild Beyond The Witchlight]]
-**Gruppe:** [[Circus5]]
 ```statblock
 stats: [ 1, 1, 1, 1, 1, 1 ]
 cr: 3

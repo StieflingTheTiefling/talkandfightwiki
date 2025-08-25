@@ -8,8 +8,6 @@ klasse: Barbar
 date: 2025-08-11
 ---
 **Spieler:** [[Tobias Thaler]]
-**Kampagne:** [[Wild Beyond The Witchlight]]
-**Gruppe:** [[Circus5]]
 ```statblock
 stats: [ 1, 1, 1, 1, 1, 1 ]
 cr: 3
